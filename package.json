@@ -1,15 +1,17 @@
 {
-    "name": "wilders",
-    "version": "1.0.0",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js"
-    },
-    "author": "bdf",
-    "license": "ISC",
-    "description": "",
-    "type": "module",
-    "dependencies": {
-        "chalk": "^5.0.1"
-    }
+  "name": "wilders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "bdf",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
 }
